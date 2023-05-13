@@ -1,0 +1,1 @@
+Le temps d'exécution semble plus élevé pour des opérations rapides, mais plus rapides pour des opérations plus longues (plus il y a de caractères à générer, plus le programme bénéficiera des threads)
