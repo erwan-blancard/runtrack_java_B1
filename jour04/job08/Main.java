@@ -44,8 +44,6 @@ class Main {
 		System.out.println("Somme: " + sum);
 		
 		System.out.println("Min Free Mem Record: "+formatSize(minFreeMemRecord) + " free memory out of "+formatSize(Runtime.getRuntime().totalMemory()));
-        
-        
 		
 		System.out.println("Temps exécution: "+(System.currentTimeMillis() - startTime) + " ms");
 		
